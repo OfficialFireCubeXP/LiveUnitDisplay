@@ -16,3 +16,5 @@ Why did I do this? **BECAUSE I HATE MY LIFE.**
 I command you to enjoy your day.
 
 This is a Public Archive and can be used for educational purposes. But as I said, most of the maths was done by AI, not me.
+
+Oh, and also this already has an .exe file ready for use, so you don't have to compile the code yourself.
